@@ -3,7 +3,7 @@
 [![GithubActions](https://github.com/cosmos/ledger-cosmos/actions/workflows/main.yml/badge.svg)](https://github.com/cosmos/ledger-cosmos/blob/main/.github/workflows/main.yaml)
 
 ---
-
+1
 ![zondax](docs/zondax.jpg)
 
 _Please visit our website at [zondax.ch](zondax.ch)_
